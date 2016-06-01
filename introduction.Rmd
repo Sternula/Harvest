@@ -1,0 +1,21 @@
+---
+title: "Harvest"
+author: "Drew Tyre"
+date: Sys.Date()
+output: markdown
+
+---
+
+Input background information here.
+
+***  
+
+Input additional information here.
+
+***
+
+```{r echo = FALSE, warning = FALSE, error = FALSE, message = FALSE, fig.height = 5, fig.width = 14 }
+
+## If there be plots, here they be(long).
+
+```
